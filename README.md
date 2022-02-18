@@ -7,6 +7,7 @@ Getting used to working with someone elses code was initally a challange as I fi
 
 ## Site
 You can find the deployed site at: https://nikolasmazur.github.io/horiseon-social-solutions/.
+
 After hosting on GitHub Pages the site should look like this:
 
 ![Horiseon Social Solutions site image](./assets/images/deployed-website.jpg)
